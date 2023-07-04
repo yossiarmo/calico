@@ -1,4 +1,4 @@
-FROM ubuntu:jammy
+FROM ubuntu:22.10
 MAINTAINER Daniel Fox <dan.fox@tigera.io>
 ENV STREAM jammy
 
