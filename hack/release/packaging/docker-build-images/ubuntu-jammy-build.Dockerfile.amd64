@@ -1,4 +1,4 @@
-FROM ubuntu:jammy
+FROM ubuntu:kinetic
 MAINTAINER Daniel Fox <dan.fox@tigera.io>
 ENV STREAM jammy
 
