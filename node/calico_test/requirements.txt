@@ -7,3 +7,5 @@ simplejson==3.13.2
 deepdiff==3.3.0
 kubernetes
 pytest
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
